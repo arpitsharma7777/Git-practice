@@ -29,4 +29,4 @@ Real project: [LinkSutra](https://github.com/arpitsharma7777/LinkSutra)
 - `main` pe directly push mat karo
 - Apni branch ka naam: `feature/apna-naam-taskno`
 - Ek PR = ek task
-- Commit message format: `feat: kya kiya`
+- Commit message format: `feat: kya kiya nnnnslk`
