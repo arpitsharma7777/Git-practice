@@ -1,7 +1,6 @@
-# 🧵 LinkSutra Git Practice Repo
+# Git Practice Repo
 
 Yeh repo sirf **practice ke liye** hai — yahan toot-phoot allowed hai.
-Real project: [LinkSutra](https://github.com/arpitsharma7777/LinkSutra)
 
 ---
 
