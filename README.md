@@ -28,4 +28,4 @@ Yeh repo sirf **practice ke liye** hai — yahan toot-phoot allowed hai.
 - `main` pe directly push mat karo
 - Apni branch ka naam: `feature/apna-naam-taskno`
 - Ek PR = ek task
-- Commit message format: `feat: kya kiya nnnnslk`
+- Commit message format: `feat: kya kiya.`
